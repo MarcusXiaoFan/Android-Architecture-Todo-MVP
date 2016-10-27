@@ -1,0 +1,1 @@
+include ':todo-mvp', ':todo-mvp-clean', ':todo-mvp-contentproviders', ':todo-mvp-dagger', ':todo-mvp-databinding', ':todo-mvp-lodaers', ':todo-mvp-rxjava', ':todo-mvp-tablet'
